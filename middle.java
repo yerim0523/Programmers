@@ -10,7 +10,8 @@ class Solution {
       
       return answer;
   }
-    
+  
+  /*
   public static void main(String[] args)
   {
       Solution s = new Solution();
@@ -19,4 +20,5 @@ class Solution {
       
       String result2 = s.solution("qwer");
   }
+  */
 }
